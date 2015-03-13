@@ -1,0 +1,2 @@
+The formulation for simultaneous netwoked train traffic management by GLPK(GNU Linear Programming Kit) which is intended for solving large-scale linear programming (LP), mixed integer programming (MIP), and other related problems.
+The key reference is "Simultaneous train rerouting and rescheduling on an N-track network: A cumulative flow count based model reformulation", Submitted for publication in Transportation Research Part B.
